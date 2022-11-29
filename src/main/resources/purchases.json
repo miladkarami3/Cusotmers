@@ -1,0 +1,298 @@
+[
+  {
+    "customerId": 1,
+    "productName": "Mobile1",
+    "price": 9000000,
+    "date": "2021-04-03T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile2",
+    "price": 1000000,
+    "date": "2021-04-04T08:00:00.000Z"
+  },
+
+  {
+    "customerId": 1,
+    "productName": "Mobile3",
+    "price": 5000000,
+    "date": "2021-05-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile4",
+    "price": 5000000,
+    "date": "2021-05-05T08:00:00.000Z"
+  },
+
+  {
+    "customerId": 1,
+    "productName": "Mobile5",
+    "price": 3000000,
+    "date": "2021-06-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile6",
+    "price": 7000000,
+    "date": "2021-06-05T08:00:00.000Z"
+  },
+
+  {
+    "customerId": 1,
+    "productName": "Mobile7",
+    "price": 100000,
+    "date": "2021-07-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile8",
+    "price":100000 ,
+    "date": "2021-07-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile9",
+    "price": 50000,
+    "date": "2021-08-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile10",
+    "price": 50000,
+    "date": "2021-08-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile11",
+    "price": 1000,
+    "date": "2021-09-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile12",
+    "price": 1000,
+    "date": "2021-09-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile13",
+    "price": 1000,
+    "date": "2021-10-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile14",
+    "price": 1000,
+    "date": "2021-10-07T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile15",
+    "price": 1000,
+    "date": "2021-11-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile16",
+    "price": 1000,
+    "date": "2021-11-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile17",
+    "price": 1000,
+    "date": "2021-12-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile18",
+    "price": 1000,
+    "date": "2021-12-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile19",
+    "price": 1000,
+    "date": "2022-01-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile20",
+    "price": 1000,
+    "date": "2022-01-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile21",
+    "price": 1000,
+    "date": "2022-02-03T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile22",
+    "price": 1000,
+    "date": "2022-02-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile23",
+    "price": 1000,
+    "date": "2022-03-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 1,
+    "productName": "Mobile24",
+    "price": 1000,
+    "date": "2022-03-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC1",
+    "price": 1000,
+    "date": "2021-04-03T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC2",
+    "price": 1000,
+    "date": "2021-04-04T08:00:00.000Z"
+  },
+
+  {
+    "customerId": 2,
+    "productName": "PC3",
+    "price": 1000,
+    "date": "2021-05-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC4",
+    "price": 1000,
+    "date": "2021-05-05T08:00:00.000Z"
+  },
+
+  {
+    "customerId": 2,
+    "productName": "PC5",
+    "price": 1000,
+    "date": "2021-06-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC6",
+    "price": 1000,
+    "date": "2021-06-05T08:00:00.000Z"
+  },
+
+  {
+    "customerId": 2,
+    "productName": "PC7",
+    "price": 1000,
+    "date": "2021-07-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC8",
+    "price": 1000,
+    "date": "2021-07-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC9",
+    "price": 1000,
+    "date": "2021-08-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC10",
+    "price": 1000,
+    "date": "2021-08-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC11",
+    "price": 1000,
+    "date": "2021-09-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC12",
+    "price": 1000,
+    "date": "2021-09-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC13",
+    "price": 1000,
+    "date": "2021-10-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC14",
+    "price": 1000,
+    "date": "2021-10-07T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC15",
+    "price": 1000,
+    "date": "2021-11-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC16",
+    "price": 1000,
+    "date": "2021-11-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC17",
+    "price": 1000,
+    "date": "2021-12-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC18",
+    "price": 1000,
+    "date": "2021-12-06T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC19",
+    "price": 1000,
+    "date": "2022-01-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC20",
+    "price": 1000,
+    "date": "2022-01-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC21",
+    "price": 1000,
+    "date": "2022-02-03T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC22",
+    "price": 1000,
+    "date": "2022-02-04T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC23",
+    "price": 1000,
+    "date": "2022-03-05T08:00:00.000Z"
+  },
+  {
+    "customerId": 2,
+    "productName": "PC24",
+    "price": 1000,
+    "date": "2022-03-06T08:00:00.000Z"
+  }
+
+
+]
